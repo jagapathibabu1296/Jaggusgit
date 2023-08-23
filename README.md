@@ -1,2 +1,2 @@
-# Jaggusgit
-Git repo for practice
+Pusing Java code into git
+
